@@ -19,17 +19,17 @@
   },
   "dependencies": {
     "@formbricks/js": "^2.1.1",
-    "@sentry/react": "^8.22.0",
-    "@sentry/tracing": "^7.41.0",
+    "@sentry/react": "^8.26.0",
+    "@sentry/tracing": "^7.119.0",
     "@tippyjs/react": "^4.2.6",
-    "chart.js": "^4.2.1",
-    "classnames": "^2.3.2",
-    "cytoscape": "^3.28.1",
+    "chart.js": "^4.4.4",
+    "classnames": "^2.5.1",
+    "cytoscape": "^3.30.2",
     "cytoscape-cose-bilkent": "^4.1.0",
     "cytoscape-node-html-label": "^1.2.2",
     "cytoscape-popper": "^2.0.0",
     "html-to-image": "^1.11.11",
-    "next": "^14.2.5",
+    "next": "^14.2.6",
     "next-transpile-modules": "^10.0.1",
     "react": "18.3.1",
     "react-chartjs-2": "^5.2.0",
@@ -37,7 +37,7 @@
     "react-dom": "18.3.1",
     "react-drag-drop-files": "^2.3.10",
     "react-simple-maps": "3.0.0",
-    "typescript": "5.2.2"
+    "typescript": "5.5.4"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.3.0",
